@@ -1,4 +1,4 @@
-package com.laorencel.learn.lambda;
+package com.laorencel.learn.se.lambda;
 
 import com.laorencel.learn.Hero;
 

@@ -1,8 +1,7 @@
-package com.laorencel.learn.jdbc;
+package com.laorencel.learn.se.jdbc;
 
-import com.laorencel.learn.annotation.DBConfig;
-import com.laorencel.learn.annotation.JDBCConfig;
-import com.mysql.cj.protocol.Resultset;
+import com.laorencel.learn.se.annotation.DBConfig;
+import com.laorencel.learn.se.annotation.JDBCConfig;
 
 import java.sql.*;
 

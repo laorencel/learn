@@ -1,4 +1,4 @@
-package com.laorencel.learn.jdbc;
+package com.laorencel.learn.se.jdbc;
 
 import java.sql.Connection;
 import java.sql.SQLException;

@@ -1,4 +1,4 @@
-package com.laorencel.learn.gui;
+package com.laorencel.learn.se.gui;
 
 import javax.swing.*;
 import java.awt.*;

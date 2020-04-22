@@ -1,4 +1,4 @@
-package com.laorencel.learn.reflection;
+package com.laorencel.learn.se.reflection;
 
 import com.laorencel.learn.Hero;
 

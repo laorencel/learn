@@ -1,4 +1,4 @@
-package com.laorencel.learn.annotation;
+package com.laorencel.learn.se.annotation;
 
 import java.lang.annotation.*;
 

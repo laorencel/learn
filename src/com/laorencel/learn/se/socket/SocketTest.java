@@ -1,4 +1,4 @@
-package com.laorencel.learn.socket;
+package com.laorencel.learn.se.socket;
 
 import java.io.BufferedReader;
 import java.io.IOException;
