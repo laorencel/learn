@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hutubill/hutubill.iml" filepath="$PROJECT_DIR$/hutubill/hutubill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled104.iml" filepath="$PROJECT_DIR$/untitled104.iml" />
     </modules>
   </component>
